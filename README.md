@@ -11,6 +11,8 @@ Less formal reviews, sometimes called desk reviews, are ones where one or two pe
 
 The Agile development practice of pair programming is intended to be a ‘preemptive code review’. If having peers review the code after it is written is considered a good practice, the thinking goes, then why not have a peer next to the author as they are writing it?  
 
+# Level
+- Introductory
 
 # Student Learning Outcomes
 - After reading a peer's code, the student will be able to discover faults in it and communicate those faults to the team.
