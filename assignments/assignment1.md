@@ -1,3 +1,8 @@
+# Code Review Assignments
+Code review should be heavily focused on clarity, communication, and collaboration. Any assignments we produce should perhaps be graded more like an essay - tone and content matter more than spotting the logic bugs.
+
+Below are some example assignments.
+
 # Description 
 
 This homework asks you to write code for a code review that we will have in class. The code will be reviewed by your peers in class.
