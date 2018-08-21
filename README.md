@@ -26,3 +26,19 @@ The Agile development practice of pair programming is intended to be a ‘preemp
 - Developers are often asked to write more code than they read. Being exposed to other people's code offers a valuable learning experience. 
 - Developers learn how to critique a colleague's work.
 - Developers learn how to take constructive criticism.
+
+# Core Tenants of Code Review
+Code review isn't like grading a programming assignment. The goal is not to *evaluate*, the goal is to *communicate* in both directions. The author is sharing, "this is the way I think this should be done." The author contributes a concrete implementation of a design, or a concrete solution to some problem. The reviewer is learning that approach.
+
+The person whose code you are reviewing is your teammate, your peer, and very likely someone that will review your code someday soon. Code review is about communication, and ensuring that code that gets checked in is clear, correct, and understandable for the whole team - it's part of a process that leads to better team efficiency and long term velocity.
+
+The reviewer is considering whether the big picture is clear. The author may not be part of the team in the future so the review has to answer whether the average person on the team be able to understand this design/feature/etc?
+
+Simultaneously, the reviewer is usually also communicating about alternatives. Hopefully the team has already discussed and decided on the big picture design. The details, the way the code is written, the nuts and bolts, often represent a chance for the reviewer to learn new tricks AND to suggest clearer/more efficient/more common ways to do the same thing.
+
+# Risks and Bias
+The best way to kill team velocity? Fight about unimportant things, upset your teammates, be a jerk, let tempers flare.
+
+It is critical that code reviewers remember that they are having a conversation, or at most providing a teaching lesson. Code review isn't a fight: if you are rude or abusive you can quickly do a lot of damage to team culture and morale.
+
+Bias??
