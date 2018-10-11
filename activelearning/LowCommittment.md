@@ -52,11 +52,11 @@ char acceptableCharacters[] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j',
 
 string testEmail = "mark@mail.com";
 
-for(int i = 0;i < email.length();i++)
+for(int i = 0;i < testEmail.length();i++)
 {
 	for(int j = 0;j < 28;j++)
 	{
-		if(email[i] != acceptableCharacters[j])
+		if(testEmail[i] != acceptableCharacters[j])
 		{
 			cout<<"Invalid email address"<<endl;
 		}
